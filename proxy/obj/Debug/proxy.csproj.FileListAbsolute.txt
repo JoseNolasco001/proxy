@@ -1,0 +1,8 @@
+C:\Users\jose_\source\repos\proxy\proxy\bin\Debug\proxy.exe.config
+C:\Users\jose_\source\repos\proxy\proxy\bin\Debug\proxy.exe
+C:\Users\jose_\source\repos\proxy\proxy\bin\Debug\proxy.pdb
+C:\Users\jose_\source\repos\proxy\proxy\obj\Debug\proxy.csproj.AssemblyReference.cache
+C:\Users\jose_\source\repos\proxy\proxy\obj\Debug\proxy.csproj.SuggestedBindingRedirects.cache
+C:\Users\jose_\source\repos\proxy\proxy\obj\Debug\proxy.csproj.CoreCompileInputs.cache
+C:\Users\jose_\source\repos\proxy\proxy\obj\Debug\proxy.exe
+C:\Users\jose_\source\repos\proxy\proxy\obj\Debug\proxy.pdb
